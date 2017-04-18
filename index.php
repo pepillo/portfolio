@@ -43,15 +43,19 @@
 </head>
 
 <body>
+    <!--
     <div id="mobile-menu-open" class="shadow-large">
         <i class="fa fa-bars" aria-hidden="true"></i>
     </div>
+    -->
     <!-- End #mobile-menu-toggle -->
     <header>
+        <!--
         <div id="mobile-menu-close">
             <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
         </div>
-        <ul id="menu" class="shadow">
+        -->
+        <ul id="menu___" class="shadow">
             <li>
                 <a href="#about">About</a>
             </li>

@@ -146,15 +146,19 @@
                     </p>
                     <br>
                     <p>
-                        I love to use my skills to developed entire application components as well as individual
-                        applications, working on the entire process of web development, including planning,
-                        designing/developing, troubleshooting, debugging and implementing software code for
-                        website components.
+                        I am a highly driven software developer/computer scientist looking to improve as a professional
+                        on a daily basis. Having 2 years of experience in software developing within the project NEXT
+                        UPR-Central Administration programming for 11 campuses, fine tuning key strengths in proactive
+                        approach, attention to detail, ability to adapt and learn quickly/efficiently. Professional
+                        and meticulous clean coding skills and documentation. Team player with experience in working
+                        diplomatically and collaboratively to ensure success. I also love to learn as much as I can
+                        within the computer science field. Skills, tools, concepts, coding languages, design patterns
+                        and others intrigue my thirst for knowledge.
                     </p>
                     <br>
                     <p>
-                        I also love to learn, I often take online seminars or video courses to further my
-                        knowledge and skill within my technical area.
+                        As stated earlier, I love to learn witch is why I often take online seminars or video
+                        courses to further my Knowledge and skill within my technical area.
                     </p>
                     <p>
                         <ul>
@@ -178,7 +182,7 @@
                             </li>
                         </ul>
                     </p>
-                    <h3>Seld Description:</h3>
+                    <h3>Self Description:</h3>
                     <p>
                         Software Developer: Yii lover,
                         JQuery eater, PHPeer, MySQL Gymnastics, CSS stylist, and New Tech-fan
